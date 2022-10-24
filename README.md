@@ -1,5 +1,14 @@
 # truffle_smartcontract
-- Create a smartcontract and deployed at local server
-- Change property in constructor and used getter/setter
-- Create test cases and verify how it works
-- Would not be able to deploy at speedy nodes, Moralis discontinued it.
+
+Installed truffle.
+
+Created 2 smartcontracts (Hellowworld.sol and Helloworld2.sol).
+
+Create an account on Chainstack, to get Chainstack node endpoint.
+
+Generated secret key from Mnemonic Code Converter.
+
+Created test cases and verify how it works.
+
+Deployed the smartcontracts.
+
